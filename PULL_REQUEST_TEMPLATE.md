@@ -30,4 +30,4 @@ How will we know this change breaks when it does?
 
 ### Related Issue
 
-https://github.com/FoundrySpatial/<repo>/issues/#
+https://github.com/FoundrySpatial/REPO/issues/#
